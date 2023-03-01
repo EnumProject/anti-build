@@ -1,0 +1,13 @@
+messages:
+  insufficient_permissions: "&cYou don't have the permission."
+  invalid_arguments: "&cInvalid use of command."
+  no_console: "&cYou can't execute this command by console."
+
+  plugin_reloaded: "&eYou have reloaded the plugin."
+
+  build:
+    enabled: "&aNow you can build!"
+    disabled: "&cNow you can't build!"
+
+ignored-blocks:
+  - DIAMOND_ORE

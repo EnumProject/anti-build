@@ -1,0 +1,12 @@
+name: AntiBuild
+version: '${version}'
+main: it.enumproject.antibuild.server.AntiBuild
+depend:
+  - EnumLibs
+author: Axiid
+commands:
+  antibuild:
+    description: Main command
+
+  build:
+    description: Build command
